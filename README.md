@@ -10,6 +10,9 @@ This is a demo project we started for showing and implementing the material we'r
 
 ## Resources 
 
+### Design
+- https://dribbble.com/shots/14698714-Blog-web-Ui-Ux-design
+
 ### Articles
 - https://unsplash.com/photos/L8KQIPCODV8
 - https://unsplash.com/photos/8OnkIkFBBtM
